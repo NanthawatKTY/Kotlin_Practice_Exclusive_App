@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="conduit_type">Conduit Type</string>
+    <string name="conduit_size">Conduit size</string>
+    <string name="cable_amount">Cable Amount</string>
+    <string name="toaddconduitlists">toaddconuitlists</string>
+</resources>

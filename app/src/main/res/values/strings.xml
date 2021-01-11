@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Kotlin Practice Exclusive App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="conduit_type">Conduit Type</string>
+    <string name="conduit_size">Conduit size</string>
+    <string name="cable_amount">Cable Amount</string>
+    <string name="toaddconduitlists">toaddconuitlists</string>
+
+    <string-array name="spinner_cable_type_lists">
+        <item>Select a size</item>
+        <item>AE86</item>
+        <item>GTR-R34</item>
+        <item>Bugatti</item>
+        <item>Rolls Loyce</item>
+    </string-array>
+
+    <string-array name="spinner_cable_size_lists">
+        <item>Select a size</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>120</item>
+        <item>500</item>
+    </string-array>
+</resources>
